@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umesh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshb-coder&label=Profile%20views&color=0e75b6&style=flat" alt="umeshb-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshb-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Umesh10000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshb-coder" alt="umeshb-coder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshb-coder" alt="Umesh10000" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
