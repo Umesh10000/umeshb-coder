@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshb-coder&show_icons=true&locale=en" alt="umeshb-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshb-coder&" alt="umeshb-coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh10000&" alt="Umesh10000" /></p>
 
